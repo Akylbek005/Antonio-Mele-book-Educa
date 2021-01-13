@@ -1,0 +1,6 @@
+[
+
+  {"model": "courses.subject", "pk": 5, "fields": {"title": "Физика", "slug": "fizika"}},
+  {"model": "courses.subject", "pk": 6, "fields": {"title": "География", "slug": "geografiya"}},
+  {"model": "courses.subject", "pk": 7, "fields": {"title": "Химия", "slug": "himiya"}}
+]
